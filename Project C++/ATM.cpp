@@ -10,6 +10,11 @@ using namespace std;
    -> Update Mobile No.
 */
 
+void myInformation(){
+	string name;
+	string grnder;
+}
+
 
 class atm{
 private:										
